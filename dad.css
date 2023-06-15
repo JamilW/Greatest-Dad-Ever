@@ -39,6 +39,9 @@ body    {
   margin: 0 auto;
   background: #acb7ae;
   overflow: hidden;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 0 12px 40px rgb(0 0 0 / 0.6);
 }
 /* Hide the images by default */
 .mySlides {
